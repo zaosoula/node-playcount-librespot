@@ -128,3 +128,6 @@ dist
 bin/sp-playcount.jar
 .vscode/settings.json
 config.toml
+creds.json
+bin/*.jar
+.vscode
